@@ -12,3 +12,9 @@ Education: data edukasi
 
 
 Hours per Week: jumlah jam yang dihabiskan untuk bekerja dalam seminggu
+
+
+https://github.com/muhammadnajwa007/Modul_6/blob/main/css/WhatsApp%20Image%202023-12-15%20at%2013.25.13.jpeg
+
+
+https://github.com/muhammadnajwa007/Modul_6/blob/main/css/WhatsApp%20Image%202023-12-15%20at%2013.41.59.jpeg
