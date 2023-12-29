@@ -17,4 +17,4 @@ Hours per Week: jumlah jam yang dihabiskan untuk bekerja dalam seminggu
 ![image](https://github.com/muhammadnajwa007/Modul_6/blob/main/css/Screenshot%20(951).png)
 
 
-![image](https://github.com/muhammadnajwa007/Modul_6/blob/main/css/WhatsApp%20Image%202023-12-15%20at%2013.41.59.jpeg)
+![image](https://github.com/muhammadnajwa007/Modul_6/blob/main/css/Screenshot%20(951).png)
