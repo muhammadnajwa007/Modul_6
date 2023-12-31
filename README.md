@@ -9,6 +9,14 @@ Dataset :
 
 ![image](https://github.com/muhammadnajwa007/UAP/blob/main/css/Screenshot%20(954).png)
 
+
+Menggunakan Pustaka Tabnet
+
+![image](https://github.com/muhammadnajwa007/UAP/blob/main/css/Screenshot%20(955).png)
+
+
+
+
 Age: data umur
 
 
